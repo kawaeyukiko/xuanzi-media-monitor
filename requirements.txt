@@ -3,4 +3,5 @@ beautifulsoup4
 pandas
 openpyxl
 schedule
-gunicorn
+flask==2.3.3
+gunicorn==21.2.0
